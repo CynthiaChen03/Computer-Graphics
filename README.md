@@ -15,4 +15,4 @@ Central Building, and invitation words with shining points.
 
 <img src="1.png" alt="Your Image" width="500" height="400">
 
-The whole explanation and interactions of keyboard and mouse can be seen in the [report](https://github.com/CynthiaChen03/Computer-Graphics/blob/main/CPT205_written_report.pdf)
+The whole explanation and interactions of keyboard and mouse can be seen in the [report](https://github.com/CynthiaChen03/Computer-Graphics/blob/main/CPT205_written_report.pdf).
