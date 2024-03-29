@@ -10,7 +10,7 @@ d) good programming practice (e.g. necessary comments and neat format of coding)
 
 Introduction
 -------
-Here is a two-dimensional (2D) card of invitation to the 2024 XJTLU Graduation Ceremony. In this card, there are sky, land, a sun, clouds, flowers, trees, some balloons,
+Here is a two-dimensional (2D) card of invitation to the 2024 XJTLU Graduation Ceremony. In this card, there are sky, land, a sun, clouds, flowers, trees, some balloons,
 Central Building, and invitation words with shining points.
 
 <img src="1.png" alt="Your Image" width="300" height="200">
